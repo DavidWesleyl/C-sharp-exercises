@@ -2,7 +2,7 @@
 
 
 using System;
-using System.Globalization;
+using System.Globalization; // Importação para transformar vírgula em ponto.
 
 namespace DotNetCurso
 {
