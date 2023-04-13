@@ -1,4 +1,7 @@
-﻿using System;
+// input e output de variáveis //
+
+
+using System;
 using System.Globalization;
 
 namespace DotNetCurso
