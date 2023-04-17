@@ -1,46 +1,86 @@
-// input e output de variáveis //
-
-
-using System;
-using System.Globalization; // Importação para transformar vírgula em ponto.
-
-namespace DotNetCurso
+﻿using System;
+using System.Globalization;
+internal class Program
 {
-    class Program
+    private static void Main()
     {
-        static void Main(string[] args)
-        {
-            string Produto1 = "Computador";
-            string Produto2 = "Mesa de escritório";
+        System.Console.Write("Entre com o seu nome completo: "); // Nome
 
-            byte idade = 30;
-            int codigo = 5462;
-            char genero = 'M';
-
-            double Primeiro_Preco = 2100.0;
-            double Segundo_Preco = 650.50;
-            double Medida = 53.234567;
+        string nome = Console.ReadLine();
 
 
-            System.Console.WriteLine($"{Produto1} cujo preço é R$ {Primeiro_Preco}");
-            System.Console.WriteLine($"{Produto2} cujo preço é R$ {Segundo_Preco}");
+        System.Console.Write("Quantos cômodos tem na susa casa?: "); // Comodos
 
-            System.Console.WriteLine(" ");
-            System.Console.WriteLine($"Registro: {idade} anos de idade, código do produto: {codigo}, Gênero {genero}");
+        int comodos = int.Parse(Console.ReadLine());
 
-            System.Console.WriteLine(" ");
-            System.Console.WriteLine($"Medida com 8 casas decimais {Medida:f8}");
-            System.Console.WriteLine($"Arredondado (3 casas decimais): {Medida:f3}");
-            System.Console.WriteLine("Separador decimal invariant culture " + Medida.ToString("f3", CultureInfo.InvariantCulture));
+
+        System.Console.Write("Entre com o preço de um produto: "); // Preço do produto
+
+        double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+
+        // Output
+        System.Console.WriteLine(" ");
+        System.Console.WriteLine($"Seu nome é {nome}");
+        System.Console.WriteLine($"Sua casa tem {comodos} comodos.");
+        System.Console.WriteLine($"Preço digitado: {preco.ToString(CultureInfo.InvariantCulture)}");
+
+        System.Console.WriteLine("------------------------------------------------------------------------------------------------------");
 
 
 
+        System.Console.WriteLine("Entre com seu ultimo nome, idade e altura (Mesma linha)"); // Todas as informações armazenadas em um vetor
+
+        string[] informacoes = Console.ReadLine().Split(' '); // -> Irá ler as informações de variáveis diferentes na mesma linha 
+
+        string Nome_do_usuario = informacoes[0];
+        int idade_do_usuario = int.Parse(informacoes[1]);
+        double altura_do_usuario = double.Parse(informacoes[2], CultureInfo.InvariantCulture);
+
+
+        System.Console.WriteLine(" ");
+        System.Console.WriteLine(Nome_do_usuario);
+        System.Console.WriteLine(idade_do_usuario);
+        System.Console.WriteLine(altura_do_usuario.ToString(CultureInfo.InvariantCulture));
 
 
 
 
-        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     }
+
+
 }
