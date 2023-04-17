@@ -1,0 +1,15 @@
+C:\dev\exercicio03\bin\Debug\net7.0\exercicio03.exe
+C:\dev\exercicio03\bin\Debug\net7.0\exercicio03.deps.json
+C:\dev\exercicio03\bin\Debug\net7.0\exercicio03.runtimeconfig.json
+C:\dev\exercicio03\bin\Debug\net7.0\exercicio03.dll
+C:\dev\exercicio03\bin\Debug\net7.0\exercicio03.pdb
+C:\dev\exercicio03\obj\Debug\net7.0\exercicio03.csproj.AssemblyReference.cache
+C:\dev\exercicio03\obj\Debug\net7.0\exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicio03\obj\Debug\net7.0\exercicio03.AssemblyInfoInputs.cache
+C:\dev\exercicio03\obj\Debug\net7.0\exercicio03.AssemblyInfo.cs
+C:\dev\exercicio03\obj\Debug\net7.0\exercicio03.csproj.CoreCompileInputs.cache
+C:\dev\exercicio03\obj\Debug\net7.0\exercicio03.dll
+C:\dev\exercicio03\obj\Debug\net7.0\refint\exercicio03.dll
+C:\dev\exercicio03\obj\Debug\net7.0\exercicio03.pdb
+C:\dev\exercicio03\obj\Debug\net7.0\exercicio03.genruntimeconfig.cache
+C:\dev\exercicio03\obj\Debug\net7.0\ref\exercicio03.dll
