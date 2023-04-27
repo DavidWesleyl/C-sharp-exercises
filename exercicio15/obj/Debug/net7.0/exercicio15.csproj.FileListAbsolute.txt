@@ -1,0 +1,15 @@
+C:\dev\exercicio15\bin\Debug\net7.0\exercicio15.exe
+C:\dev\exercicio15\bin\Debug\net7.0\exercicio15.deps.json
+C:\dev\exercicio15\bin\Debug\net7.0\exercicio15.runtimeconfig.json
+C:\dev\exercicio15\bin\Debug\net7.0\exercicio15.dll
+C:\dev\exercicio15\bin\Debug\net7.0\exercicio15.pdb
+C:\dev\exercicio15\obj\Debug\net7.0\exercicio15.csproj.AssemblyReference.cache
+C:\dev\exercicio15\obj\Debug\net7.0\exercicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicio15\obj\Debug\net7.0\exercicio15.AssemblyInfoInputs.cache
+C:\dev\exercicio15\obj\Debug\net7.0\exercicio15.AssemblyInfo.cs
+C:\dev\exercicio15\obj\Debug\net7.0\exercicio15.csproj.CoreCompileInputs.cache
+C:\dev\exercicio15\obj\Debug\net7.0\exercicio15.dll
+C:\dev\exercicio15\obj\Debug\net7.0\refint\exercicio15.dll
+C:\dev\exercicio15\obj\Debug\net7.0\exercicio15.pdb
+C:\dev\exercicio15\obj\Debug\net7.0\exercicio15.genruntimeconfig.cache
+C:\dev\exercicio15\obj\Debug\net7.0\ref\exercicio15.dll
