@@ -1,0 +1,15 @@
+C:\dev\exercicio18\bin\Debug\net7.0\exercicio18.exe
+C:\dev\exercicio18\bin\Debug\net7.0\exercicio18.deps.json
+C:\dev\exercicio18\bin\Debug\net7.0\exercicio18.runtimeconfig.json
+C:\dev\exercicio18\bin\Debug\net7.0\exercicio18.dll
+C:\dev\exercicio18\bin\Debug\net7.0\exercicio18.pdb
+C:\dev\exercicio18\obj\Debug\net7.0\exercicio18.csproj.AssemblyReference.cache
+C:\dev\exercicio18\obj\Debug\net7.0\exercicio18.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicio18\obj\Debug\net7.0\exercicio18.AssemblyInfoInputs.cache
+C:\dev\exercicio18\obj\Debug\net7.0\exercicio18.AssemblyInfo.cs
+C:\dev\exercicio18\obj\Debug\net7.0\exercicio18.csproj.CoreCompileInputs.cache
+C:\dev\exercicio18\obj\Debug\net7.0\exercicio18.dll
+C:\dev\exercicio18\obj\Debug\net7.0\refint\exercicio18.dll
+C:\dev\exercicio18\obj\Debug\net7.0\exercicio18.pdb
+C:\dev\exercicio18\obj\Debug\net7.0\exercicio18.genruntimeconfig.cache
+C:\dev\exercicio18\obj\Debug\net7.0\ref\exercicio18.dll
