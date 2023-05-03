@@ -1,0 +1,15 @@
+C:\dev\ValoresImpares\ValoresImpares\bin\Debug\net6.0\ValoresImpares.exe
+C:\dev\ValoresImpares\ValoresImpares\bin\Debug\net6.0\ValoresImpares.deps.json
+C:\dev\ValoresImpares\ValoresImpares\bin\Debug\net6.0\ValoresImpares.runtimeconfig.json
+C:\dev\ValoresImpares\ValoresImpares\bin\Debug\net6.0\ValoresImpares.dll
+C:\dev\ValoresImpares\ValoresImpares\bin\Debug\net6.0\ValoresImpares.pdb
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\ValoresImpares.csproj.AssemblyReference.cache
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\ValoresImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\ValoresImpares.AssemblyInfoInputs.cache
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\ValoresImpares.AssemblyInfo.cs
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\ValoresImpares.csproj.CoreCompileInputs.cache
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\ValoresImpares.dll
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\refint\ValoresImpares.dll
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\ValoresImpares.pdb
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\ValoresImpares.genruntimeconfig.cache
+C:\dev\ValoresImpares\ValoresImpares\obj\Debug\net6.0\ref\ValoresImpares.dll
