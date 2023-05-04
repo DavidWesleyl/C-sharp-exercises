@@ -1,0 +1,15 @@
+C:\dev\Divisor\Divisor\bin\Debug\net6.0\Divisor.exe
+C:\dev\Divisor\Divisor\bin\Debug\net6.0\Divisor.deps.json
+C:\dev\Divisor\Divisor\bin\Debug\net6.0\Divisor.runtimeconfig.json
+C:\dev\Divisor\Divisor\bin\Debug\net6.0\Divisor.dll
+C:\dev\Divisor\Divisor\bin\Debug\net6.0\Divisor.pdb
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\Divisor.csproj.AssemblyReference.cache
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\Divisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\Divisor.AssemblyInfoInputs.cache
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\Divisor.AssemblyInfo.cs
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\Divisor.csproj.CoreCompileInputs.cache
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\Divisor.dll
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\refint\Divisor.dll
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\Divisor.pdb
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\Divisor.genruntimeconfig.cache
+C:\dev\Divisor\Divisor\obj\Debug\net6.0\ref\Divisor.dll
