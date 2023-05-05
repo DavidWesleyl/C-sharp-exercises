@@ -1,0 +1,15 @@
+C:\dev\Divisores\Divisores\bin\Debug\net6.0\Divisores.exe
+C:\dev\Divisores\Divisores\bin\Debug\net6.0\Divisores.deps.json
+C:\dev\Divisores\Divisores\bin\Debug\net6.0\Divisores.runtimeconfig.json
+C:\dev\Divisores\Divisores\bin\Debug\net6.0\Divisores.dll
+C:\dev\Divisores\Divisores\bin\Debug\net6.0\Divisores.pdb
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\Divisores.csproj.AssemblyReference.cache
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\Divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\Divisores.AssemblyInfoInputs.cache
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\Divisores.AssemblyInfo.cs
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\Divisores.csproj.CoreCompileInputs.cache
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\Divisores.dll
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\refint\Divisores.dll
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\Divisores.pdb
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\Divisores.genruntimeconfig.cache
+C:\dev\Divisores\Divisores\obj\Debug\net6.0\ref\Divisores.dll
