@@ -11,7 +11,7 @@
 
         for (int inicio = 1; inicio <= numero; inicio++)
         {
-            if (numero % inicio == 0) // Para saber os divisores de um numero, o resto da divisão precisa ser um valor inteiro, reto zero.
+            if (numero % inicio == 0) // Para saber os divisores de um numero, o resto da divisão precisa ser um valor inteiro, resto zero.
             {
                 Console.WriteLine(inicio);
             }
