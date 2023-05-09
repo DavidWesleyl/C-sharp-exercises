@@ -1,7 +1,5 @@
 ﻿using PessoaMaisVelha;
 using System;
-using System.Runtime.ConstrainedExecution;
-using System.Threading.Channels;
 
 internal class Program
 {
