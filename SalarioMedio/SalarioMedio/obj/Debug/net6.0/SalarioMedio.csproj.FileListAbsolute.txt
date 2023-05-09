@@ -1,0 +1,15 @@
+C:\dev\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.exe
+C:\dev\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.deps.json
+C:\dev\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.runtimeconfig.json
+C:\dev\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.dll
+C:\dev\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.pdb
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.csproj.AssemblyReference.cache
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.AssemblyInfoInputs.cache
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.AssemblyInfo.cs
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.csproj.CoreCompileInputs.cache
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.dll
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\refint\SalarioMedio.dll
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.pdb
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.genruntimeconfig.cache
+C:\dev\SalarioMedio\SalarioMedio\obj\Debug\net6.0\ref\SalarioMedio.dll
