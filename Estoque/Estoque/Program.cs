@@ -9,9 +9,9 @@ internal class Program
           
         -> Mostre os dados do Produto ( Nome, preço, quantidade e quantidade total)
         -> Realize uma entrada no Estoque e mostre novamente4 os resultados 
-        -> Realize uma saída no estoque e mostre novamente os produtos 
+        -> Realize uma saída no estoque e mostre novamente os produtos */
         // OBS: Nesse Projeto foi criada uma Classe chamada "Produtos", com 3 atributos e 3 Métodos.
-                                                                                                                    */
+                                                                                                                    
         
         Produto itens;
 
