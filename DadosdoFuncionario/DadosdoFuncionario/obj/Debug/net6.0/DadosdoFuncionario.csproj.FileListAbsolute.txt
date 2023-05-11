@@ -1,0 +1,15 @@
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\bin\Debug\net6.0\DadosdoFuncionario.exe
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\bin\Debug\net6.0\DadosdoFuncionario.deps.json
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\bin\Debug\net6.0\DadosdoFuncionario.runtimeconfig.json
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\bin\Debug\net6.0\DadosdoFuncionario.dll
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\bin\Debug\net6.0\DadosdoFuncionario.pdb
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\DadosdoFuncionario.csproj.AssemblyReference.cache
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\DadosdoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\DadosdoFuncionario.AssemblyInfoInputs.cache
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\DadosdoFuncionario.AssemblyInfo.cs
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\DadosdoFuncionario.csproj.CoreCompileInputs.cache
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\DadosdoFuncionario.dll
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\refint\DadosdoFuncionario.dll
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\DadosdoFuncionario.pdb
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\DadosdoFuncionario.genruntimeconfig.cache
+C:\dev\DadosdoFuncionario\DadosdoFuncionario\obj\Debug\net6.0\ref\DadosdoFuncionario.dll
