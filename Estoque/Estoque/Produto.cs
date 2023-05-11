@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace Estoque
 {
-    internal class Produto
+    internal class Produto // Atributos da Classe
     {
 
         public string Nome;
@@ -12,7 +12,7 @@ namespace Estoque
         public int Quantidade;
     
     
-        public double ValorTotalemEstoque() // Primeiro Método
+        public double ValorTotalemEstoque() // Primeiro Método que irá mostrar o valor total
         {
             return Valor * Quantidade;
         }
@@ -34,7 +34,7 @@ namespace Estoque
 
 
 
-        public override string ToString()
+        public override string ToString() // Esse método irá mostrar todas as informações de forma mais eficiente.
         {
             return $" Produto: {Nome}, Valor: {(Valor).ToString("f2", CultureInfo.InvariantCulture)}, Quantidade: {Quantidade}, Total {(Valor * Quantidade).ToString("f2", CultureInfo.InvariantCulture)}";
         }
