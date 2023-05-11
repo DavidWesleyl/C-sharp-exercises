@@ -1,0 +1,15 @@
+C:\dev\Estoque\Estoque\bin\Debug\net6.0\Estoque.exe
+C:\dev\Estoque\Estoque\bin\Debug\net6.0\Estoque.deps.json
+C:\dev\Estoque\Estoque\bin\Debug\net6.0\Estoque.runtimeconfig.json
+C:\dev\Estoque\Estoque\bin\Debug\net6.0\Estoque.dll
+C:\dev\Estoque\Estoque\bin\Debug\net6.0\Estoque.pdb
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\Estoque.csproj.AssemblyReference.cache
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\Estoque.AssemblyInfoInputs.cache
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\Estoque.AssemblyInfo.cs
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\Estoque.csproj.CoreCompileInputs.cache
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\Estoque.dll
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\refint\Estoque.dll
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\Estoque.pdb
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\Estoque.genruntimeconfig.cache
+C:\dev\Estoque\Estoque\obj\Debug\net6.0\ref\Estoque.dll
