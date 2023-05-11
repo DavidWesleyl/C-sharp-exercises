@@ -32,29 +32,31 @@ internal class Program
         Console.Write("Quantidade: ");
         itens.Quantidade = int.Parse(Console.ReadLine());
 
-        Console.WriteLine(" ");
+        Console.WriteLine(" "); //Espaço para melhor organização na hora de executar 
 
 
         Console.WriteLine($"Relação: {itens}");
 
-        Console.WriteLine(" ");
+        Console.WriteLine(" "); //Espaço para melhor organização na hora de executar 
         
         Console.Write("Digite a quantidade de produtos a ser adicionada no estoque: ");
         int Adicao_de_Produtos = int.Parse(Console.ReadLine());
         itens.AdicionarProdutos(Adicao_de_Produtos);
 
-        Console.WriteLine(" ");
+        Console.WriteLine(" "); //Espaço para melhor organização na hora de executar 
+        
         Console.WriteLine($"Relação Atualizada >> {itens}");
 
         
-        Console.WriteLine(" ");
+        Console.WriteLine(" "); //Espaço para melhor organização na hora de executar 
         
         Console.Write("Digite a Quantidade de Produtos a ser removida do estoque: ");
         int RemocaodeProdutos = int.Parse(Console.ReadLine());
         itens.RemoverProdutos(RemocaodeProdutos);
 
         
-        Console.WriteLine(" ");
+        Console.WriteLine(" "); //Espaço para melhor organização na hora de executar 
+        
         Console.WriteLine($"Relação Atualizada >> {itens}");
 
 
