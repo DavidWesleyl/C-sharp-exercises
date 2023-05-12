@@ -1,0 +1,15 @@
+C:\dev\TrimestreAluno\TrimestreAluno\bin\Debug\net6.0\TrimestreAluno.exe
+C:\dev\TrimestreAluno\TrimestreAluno\bin\Debug\net6.0\TrimestreAluno.deps.json
+C:\dev\TrimestreAluno\TrimestreAluno\bin\Debug\net6.0\TrimestreAluno.runtimeconfig.json
+C:\dev\TrimestreAluno\TrimestreAluno\bin\Debug\net6.0\TrimestreAluno.dll
+C:\dev\TrimestreAluno\TrimestreAluno\bin\Debug\net6.0\TrimestreAluno.pdb
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\TrimestreAluno.csproj.AssemblyReference.cache
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\TrimestreAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\TrimestreAluno.AssemblyInfoInputs.cache
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\TrimestreAluno.AssemblyInfo.cs
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\TrimestreAluno.csproj.CoreCompileInputs.cache
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\TrimestreAluno.dll
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\refint\TrimestreAluno.dll
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\TrimestreAluno.pdb
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\TrimestreAluno.genruntimeconfig.cache
+C:\dev\TrimestreAluno\TrimestreAluno\obj\Debug\net6.0\ref\TrimestreAluno.dll
