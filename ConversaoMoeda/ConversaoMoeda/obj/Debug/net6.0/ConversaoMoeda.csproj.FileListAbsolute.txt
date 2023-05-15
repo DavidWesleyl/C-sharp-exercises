@@ -1,0 +1,15 @@
+C:\dev\ConversaoMoeda\ConversaoMoeda\bin\Debug\net6.0\ConversaoMoeda.exe
+C:\dev\ConversaoMoeda\ConversaoMoeda\bin\Debug\net6.0\ConversaoMoeda.deps.json
+C:\dev\ConversaoMoeda\ConversaoMoeda\bin\Debug\net6.0\ConversaoMoeda.runtimeconfig.json
+C:\dev\ConversaoMoeda\ConversaoMoeda\bin\Debug\net6.0\ConversaoMoeda.dll
+C:\dev\ConversaoMoeda\ConversaoMoeda\bin\Debug\net6.0\ConversaoMoeda.pdb
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\ConversaoMoeda.csproj.AssemblyReference.cache
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\ConversaoMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\ConversaoMoeda.AssemblyInfoInputs.cache
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\ConversaoMoeda.AssemblyInfo.cs
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\ConversaoMoeda.csproj.CoreCompileInputs.cache
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\ConversaoMoeda.dll
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\refint\ConversaoMoeda.dll
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\ConversaoMoeda.pdb
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\ConversaoMoeda.genruntimeconfig.cache
+C:\dev\ConversaoMoeda\ConversaoMoeda\obj\Debug\net6.0\ref\ConversaoMoeda.dll
