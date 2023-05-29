@@ -14,7 +14,7 @@ namespace ContaBancaria
 		public double Saldo { get; private set; }
 
 
-		public Cliente() // Construtor Padão recebe 0 
+		public Cliente() // Construtor Padrão recebe 0 
 		{
 			Saldo = 0;
 		}
