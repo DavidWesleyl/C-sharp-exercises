@@ -21,11 +21,11 @@ internal class Program
 
 
 
-		Console.Write("Quantos quartos serão alugados? "); 
+	Console.Write("Quantos quartos serão alugados? "); 
 
-		int quantidade_de_quartos = int.Parse(Console.ReadLine()); // Entrada de quartos a ser alugados 
+	int quantidade_de_quartos = int.Parse(Console.ReadLine()); // Entrada de quartos a ser alugados 
 
-		Aluguel[] vect = new Aluguel[10]; // vetor indicando que só há 10 quartos 
+	Aluguel[] vect = new Aluguel[10]; // vetor indicando que só há 10 quartos 
 
         Console.WriteLine();
 
