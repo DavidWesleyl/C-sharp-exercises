@@ -7,6 +7,7 @@ internal class Program
 {
 	private static void Main(string[] args)
 	{
+		// O PROGRAMA EM QUESTÃO IRÁ PERGUNTAR A QUANTIDADE DE USUÁRIOS QUE SERÃO ARMAZENADOS EM UMA LISTA, EM SEGUIDA IRÁ AUMENTAR SEU SALÁRIO	
         Console.Write("Quantos funcionários você irá cadastrar? ");
 		int quantidade = int.Parse(Console.ReadLine());
 
