@@ -9,7 +9,7 @@ namespace Cadastro_de_Funcionario
 
 		public int ID_Funcionario { get; private set; }
 		public string Nome_Funcionario { get; set; }
-		public double Salario_Funcionario { get; set; }
+		public double Salario_Funcionario { get; private set; }
 
 
 		public Funcionarios(int id, string nome, double salario)
