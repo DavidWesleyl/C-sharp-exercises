@@ -1,0 +1,15 @@
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\bin\Debug\net6.0\Analise-de-Matriz.exe
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\bin\Debug\net6.0\Analise-de-Matriz.deps.json
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\bin\Debug\net6.0\Analise-de-Matriz.runtimeconfig.json
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\bin\Debug\net6.0\Analise-de-Matriz.dll
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\bin\Debug\net6.0\Analise-de-Matriz.pdb
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\Analise-de-Matriz.csproj.AssemblyReference.cache
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\Analise-de-Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\Analise-de-Matriz.AssemblyInfoInputs.cache
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\Analise-de-Matriz.AssemblyInfo.cs
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\Analise-de-Matriz.csproj.CoreCompileInputs.cache
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\Analise-de-Matriz.dll
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\refint\Analise-de-Matriz.dll
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\Analise-de-Matriz.pdb
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\Analise-de-Matriz.genruntimeconfig.cache
+C:\dev\Analise-de-Matriz\Analise-de-Matriz\obj\Debug\net6.0\ref\Analise-de-Matriz.dll
