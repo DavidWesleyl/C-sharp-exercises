@@ -17,9 +17,9 @@ internal class Program
 
 		Console.WriteLine("----- Enter Worker Data -----");
 
-        Console.WriteLine();
+        	Console.WriteLine();
 
-        Console.Write("Name: "); // Nome do Usuário
+        	Console.Write("Name: "); // Nome do Usuário
 		string Name = Console.ReadLine();
 
 		Console.Write("Level (Junior/MidLevel/Senior): "); // Nível do Usuário
