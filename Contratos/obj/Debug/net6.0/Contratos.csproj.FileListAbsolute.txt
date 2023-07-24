@@ -1,0 +1,15 @@
+C:\dev\Contratos\Contratos\bin\Debug\net6.0\Contratos.exe
+C:\dev\Contratos\Contratos\bin\Debug\net6.0\Contratos.deps.json
+C:\dev\Contratos\Contratos\bin\Debug\net6.0\Contratos.runtimeconfig.json
+C:\dev\Contratos\Contratos\bin\Debug\net6.0\Contratos.dll
+C:\dev\Contratos\Contratos\bin\Debug\net6.0\Contratos.pdb
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\Contratos.csproj.AssemblyReference.cache
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\Contratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\Contratos.AssemblyInfoInputs.cache
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\Contratos.AssemblyInfo.cs
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\Contratos.csproj.CoreCompileInputs.cache
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\Contratos.dll
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\refint\Contratos.dll
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\Contratos.pdb
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\Contratos.genruntimeconfig.cache
+C:\dev\Contratos\Contratos\obj\Debug\net6.0\ref\Contratos.dll
