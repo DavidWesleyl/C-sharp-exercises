@@ -1,5 +1,6 @@
 ﻿using Pedidos.Entities.Enum;
 using Pedidos.Entities;
+using Sytey.Globalization;
 internal class Program
 
 {
@@ -51,7 +52,7 @@ internal class Program
 			string product_name = Console.ReadLine();
 
 			Console.Write("Product Price: ");
-			double product_price = double.Parse(Console.ReadLine());
+			double product_price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 			Product product = new Product(product_name, inicio);
 
