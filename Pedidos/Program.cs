@@ -19,7 +19,7 @@ internal class Program
 		Console.Write(">> Email: "); // Email
 		string email = Console.ReadLine();
 
-		Console.Write(">> Bith Date: (dd/mm/yyyy): "); // Data de nascimento
+		Console.Write(">> Birth Date: (dd/mm/yyyy): "); // Data de nascimento
 		DateTime birthdate = DateTime.Parse(Console.ReadLine());
 
 		Clients dados_clientes = new(name, email, birthdate);
