@@ -6,7 +6,7 @@ internal class Program
 {
 	private static void Main(string[] args)
 	{
-		// Fazer um mini programa console utilizando algums classses e enums, para cadastrar produtos e mostrar a situação //
+		// Fazer um mini programa console utilizando algumas classses e enums, para cadastrar produtos e mostrar a situação //
 		
 		// D A D O S	C L I E N T E //
 
