@@ -1,0 +1,15 @@
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\Terceirizado.exe
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\Terceirizado.deps.json
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\Terceirizado.runtimeconfig.json
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\Terceirizado.dll
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\Terceirizado.pdb
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\Terceirizado.csproj.AssemblyReference.cache
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\Terceirizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\Terceirizado.AssemblyInfoInputs.cache
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\Terceirizado.AssemblyInfo.cs
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\Terceirizado.csproj.CoreCompileInputs.cache
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\Terceirizado.dll
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\refint\Terceirizado.dll
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\Terceirizado.pdb
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\Terceirizado.genruntimeconfig.cache
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\ref\Terceirizado.dll

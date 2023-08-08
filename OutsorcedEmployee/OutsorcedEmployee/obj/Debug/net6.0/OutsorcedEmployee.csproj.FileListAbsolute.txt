@@ -1,0 +1,15 @@
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\OutsorcedEmployee.exe
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\OutsorcedEmployee.deps.json
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\OutsorcedEmployee.runtimeconfig.json
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\OutsorcedEmployee.dll
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\bin\Debug\net6.0\OutsorcedEmployee.pdb
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\OutsorcedEmployee.csproj.AssemblyReference.cache
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\OutsorcedEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\OutsorcedEmployee.AssemblyInfoInputs.cache
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\OutsorcedEmployee.AssemblyInfo.cs
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\OutsorcedEmployee.csproj.CoreCompileInputs.cache
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\OutsorcedEmployee.dll
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\refint\OutsorcedEmployee.dll
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\OutsorcedEmployee.pdb
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\OutsorcedEmployee.genruntimeconfig.cache
+C:\dev\OutsorcedEmployee\OutsorcedEmployee\obj\Debug\net6.0\ref\OutsorcedEmployee.dll
