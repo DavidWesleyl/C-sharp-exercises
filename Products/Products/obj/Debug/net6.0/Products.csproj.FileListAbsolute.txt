@@ -1,0 +1,15 @@
+C:\dev\Products\Products\bin\Debug\net6.0\Products.exe
+C:\dev\Products\Products\bin\Debug\net6.0\Products.deps.json
+C:\dev\Products\Products\bin\Debug\net6.0\Products.runtimeconfig.json
+C:\dev\Products\Products\bin\Debug\net6.0\Products.dll
+C:\dev\Products\Products\bin\Debug\net6.0\Products.pdb
+C:\dev\Products\Products\obj\Debug\net6.0\Products.csproj.AssemblyReference.cache
+C:\dev\Products\Products\obj\Debug\net6.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Products\Products\obj\Debug\net6.0\Products.AssemblyInfoInputs.cache
+C:\dev\Products\Products\obj\Debug\net6.0\Products.AssemblyInfo.cs
+C:\dev\Products\Products\obj\Debug\net6.0\Products.csproj.CoreCompileInputs.cache
+C:\dev\Products\Products\obj\Debug\net6.0\Products.dll
+C:\dev\Products\Products\obj\Debug\net6.0\refint\Products.dll
+C:\dev\Products\Products\obj\Debug\net6.0\Products.pdb
+C:\dev\Products\Products\obj\Debug\net6.0\Products.genruntimeconfig.cache
+C:\dev\Products\Products\obj\Debug\net6.0\ref\Products.dll
