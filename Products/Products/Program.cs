@@ -6,28 +6,28 @@ internal class Program
 	private static void Main(string[] args)
 	{
         /*	Fazer um programa para ler os dados de N produtos (N fornecido pelo usuário). Ao final, mostrar a etiqueta de preço de cada produto na
-			mesma ordem em que foram digitados.
-			Todo produto possui nome e preço. Produtos importados possuem uma taxa de alfândega, e produtos usados possuem data de fabricação.
-			Estes dados específicos devem ser acrescentados na etiqueta de preço.
-
-			Para produtos importados, a taxa e alfândega deve ser acrescentada ao preço final do produto */
+		mesma ordem em que foram digitados.
+  
+		Todo produto possui nome e preço. Produtos importados possuem uma taxa de alfândega, e produtos usados possuem data de fabricação.
+		Estes dados específicos devem ser acrescentados na etiqueta de preço
+		Para produtos importados, a taxa e alfândega deve ser acrescentada ao preço final do produto */
 
 
 
         Console.Write("Enter the number of Products: ");
-		int quantity = int.Parse(Console.ReadLine());
+	int quantity = int.Parse(Console.ReadLine());
 
-		List<Product> client_products = new List<Product>();
+	List<Product> client_products = new List<Product>();
 
 
-		for(int inicio = 1; inicio <= quantity; inicio++)
-		{
-			Console.WriteLine();
+	for(int inicio = 1; inicio <= quantity; inicio++)
+	{
+	    Console.WriteLine();
 
             Console.WriteLine($"Product #{inicio} data: ");
             Console.WriteLine();
             Console.Write("Common / used / import ( c | u | i ): ");
-			char type_product = char.Parse(Console.ReadLine());
+	    char type_product = char.Parse(Console.ReadLine());
 
             if ( type_product == 'c')
 			{
