@@ -1,0 +1,15 @@
+C:\dev\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.exe
+C:\dev\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.deps.json
+C:\dev\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.runtimeconfig.json
+C:\dev\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.dll
+C:\dev\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.pdb
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.csproj.AssemblyReference.cache
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.AssemblyInfoInputs.cache
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.AssemblyInfo.cs
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.csproj.CoreCompileInputs.cache
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.dll
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\refint\Contribuintes.dll
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.pdb
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.genruntimeconfig.cache
+C:\dev\Contribuintes\Contribuintes\obj\Debug\net6.0\ref\Contribuintes.dll
