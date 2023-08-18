@@ -1,0 +1,15 @@
+C:\dev\Reservation\Reservation\bin\Debug\net6.0\Reservation.exe
+C:\dev\Reservation\Reservation\bin\Debug\net6.0\Reservation.deps.json
+C:\dev\Reservation\Reservation\bin\Debug\net6.0\Reservation.runtimeconfig.json
+C:\dev\Reservation\Reservation\bin\Debug\net6.0\Reservation.dll
+C:\dev\Reservation\Reservation\bin\Debug\net6.0\Reservation.pdb
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\Reservation.csproj.AssemblyReference.cache
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\Reservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\Reservation.AssemblyInfoInputs.cache
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\Reservation.AssemblyInfo.cs
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\Reservation.csproj.CoreCompileInputs.cache
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\Reservation.dll
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\refint\Reservation.dll
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\Reservation.pdb
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\Reservation.genruntimeconfig.cache
+C:\dev\Reservation\Reservation\obj\Debug\net6.0\ref\Reservation.dll
