@@ -1,0 +1,15 @@
+C:\dev\Saldo\Saldo\bin\Debug\net6.0\Saldo.exe
+C:\dev\Saldo\Saldo\bin\Debug\net6.0\Saldo.deps.json
+C:\dev\Saldo\Saldo\bin\Debug\net6.0\Saldo.runtimeconfig.json
+C:\dev\Saldo\Saldo\bin\Debug\net6.0\Saldo.dll
+C:\dev\Saldo\Saldo\bin\Debug\net6.0\Saldo.pdb
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\Saldo.csproj.AssemblyReference.cache
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\Saldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\Saldo.AssemblyInfoInputs.cache
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\Saldo.AssemblyInfo.cs
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\Saldo.csproj.CoreCompileInputs.cache
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\Saldo.dll
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\refint\Saldo.dll
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\Saldo.pdb
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\Saldo.genruntimeconfig.cache
+C:\dev\Saldo\Saldo\obj\Debug\net6.0\ref\Saldo.dll
